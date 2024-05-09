@@ -1,0 +1,41 @@
+*{
+padding:0%;
+margin:0%;
+box-sizing: border-box;
+}
+
+body{
+    background-color:#fff;
+}
+
+
+.sign-up-conatainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: 1px solid rgb(216, 208, 208);
+}
+
+.sign-up-form{
+    width: 400px;
+    padding: 20px;
+    background-color: blueviolet;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 5px 20px;
+}
+
+label{
+    display: block;
+    margin-bottom: 8px;
+   
+}
+
+input{
+    width: 320px;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+}
+
